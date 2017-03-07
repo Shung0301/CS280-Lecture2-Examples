@@ -10,6 +10,7 @@ namespace Example01
     {
         private static void Main(string[] args)
         {
+            //輸入源 WriteLine在下面，Write在右邊
             //Console.Write("使用者名稱:");
             //string userName = Console.ReadLine();
             //Console.Write("請輸入密碼");
