@@ -1,0 +1,6 @@
+D:\CSharp\CS280-Lecture2-Examples\Example01\bin\Debug\Example01.exe.config
+D:\CSharp\CS280-Lecture2-Examples\Example01\bin\Debug\Example01.exe
+D:\CSharp\CS280-Lecture2-Examples\Example01\bin\Debug\Example01.pdb
+D:\CSharp\CS280-Lecture2-Examples\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\CSharp\CS280-Lecture2-Examples\Example01\obj\Debug\Example01.exe
+D:\CSharp\CS280-Lecture2-Examples\Example01\obj\Debug\Example01.pdb
