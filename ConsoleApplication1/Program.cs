@@ -31,11 +31,35 @@ namespace ConsoleApplication1
             float t = 3.1415926f;
             string u = t.ToString();
 
-            Console.WriteLine("請輸入第一個數字");
-            int number1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("請輸入第二個數字");
-            int number2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("{0}+{1}={2}", number1, number2, number1 + number2);
+            //int number1 = 0; int number2 = 0;
+            //Console.WriteLine("請輸入第一個數字");
+            //number1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("請輸入第二個數字");
+            //number2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("{0}+{1}={2}", number1, number2, number1 + number2);
+
+            int number1 = 0;
+            int number2 = 0;
+            Console.Write("請輸入第一個數字:");
+            try
+            {
+                number1 = int.Parse(Console.ReadLine());
+            }
+            catch (Exception warning)
+            {
+                Console.WriteLine(warning.ToString());
+            }
+
+            Console.Write("請輸入第二個數字:");
+            try
+            {
+                number2 = int.Parse(Console.ReadLine());
+            }
+            catch (Exception warning)
+            {
+                Console.WriteLine(warning.ToString());
+            }
+            Console.WriteLine("{0} + {1} = {2}", number1, number2, number1 + number2);
         }
     }
 }
