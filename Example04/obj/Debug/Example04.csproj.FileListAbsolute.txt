@@ -3,3 +3,8 @@ D:\CSharp\CS280-Lecture2-Examples\ConsoleApplication1\bin\Debug\ConsoleApplicati
 D:\CSharp\CS280-Lecture2-Examples\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\CSharp\CS280-Lecture2-Examples\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\CSharp\CS280-Lecture2-Examples\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CSharp\CS280-Lecture2-Examples\Example04\bin\Debug\ConsoleApplication1.exe.config
+D:\CSharp\CS280-Lecture2-Examples\Example04\obj\Debug\ConsoleApplication1.exe
+D:\CSharp\CS280-Lecture2-Examples\Example04\obj\Debug\ConsoleApplication1.pdb
+D:\CSharp\CS280-Lecture2-Examples\Example04\bin\Debug\ConsoleApplication1.exe
+D:\CSharp\CS280-Lecture2-Examples\Example04\bin\Debug\ConsoleApplication1.pdb
